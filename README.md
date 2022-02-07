@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @OscarMayorga1
-- 👀 I’m interested in all sort of tech solutions for people and business
-- 🌱 I’m currently learning Data Analytics and Web Development
-- 🎓 I'm really good at Ansi C working on any Unix platform or Windows
+- 👋 Hi, I’m @OscarMayorga1.
+- 👀 I’m interested in all sort of tech solutions for people and business.
+- 🌱 I’m currently learning Data Analytics and Web Development.
+- 🎓 I'm really good at Ansi C running Windows or Unix based ystems.
 
 <!---
 OscarMayorga1/OscarMayorga1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
